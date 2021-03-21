@@ -1,0 +1,41 @@
+@import "./variables";
+@import "./react-table";
+.initiate {
+  background: $initiate;
+}
+
+.success {
+  background: $success;
+}
+
+.maxWidth150 {
+  width: 150px;
+}
+
+.borderRadius4 {
+  border-radius: 4px;
+}
+
+.colorWhite {
+  color: $white;
+}
+
+.paddingAssignmentType {
+  padding: 1px 11px 3px 8px !important;
+}
+
+.fontSize11 {
+  font-size: 11px !important;
+}
+
+.fontSize12 {
+  font-size: 12px !important;
+}
+
+.textCenter {
+  text-align: center !important;
+}
+
+.boxShadowNone {
+  box-shadow: none !important;
+}
